@@ -1,18 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Melisa
+#### I am Data Engineer and Data Analyst
+![I am Data Engineer and Data Analyst](https://www.linkedin.com/in/melisacavagna/)
 
-<!--
-**mcavagna8/mcavagna8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a responsible, perseverant, proactive, punctual and committed person. Self-taught. I am passionate about innovation and technology.
+My main goal is to continue growing as a professional, developing myself in the areas of technology, finance and data science. 
 
-Here are some ideas to get you started:
+Skills: Python | Spark | Databricks | Azure Synapse | Data Factory | Cosmos DB | SQL | Power BI | Tableau | SAP FI | R |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mcavagna8&theme=radical&hide_border=verdadero&mode=weekly)](https://git.io/streak-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/melisacavagna//)  
+
