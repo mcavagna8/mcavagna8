@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋 I’m Melisa </h1>
   
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 25%, width: 80%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 25% width: 80%" />
 </div>  
   
 
