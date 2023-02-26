@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, soy Melisa Cavagna</h1>
-<h3 align="center">ApasionadaIngeniera y Analista de Datos especializada en Tecnologías Cloud con Azure y Máster en Dirección Estratégica y Tecnológica (EOI- ITBA)e desarrollador frontend de India</h3>
+<h3 align="center">I am Data Engineer and Data Analyst
+I am a responsible, perseverant, proactive, punctual and committed person. Self-taught. I am passionate about innovation and technology.
+My main goal is to continue growing as a professional, developing myself in the areas of technology, finance and data science. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcavagna8&label=Profile%20views&color=0e75b6&style=flat" alt=" mcavagna8" /> </p>
 
