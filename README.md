@@ -1,12 +1,11 @@
-<h1 align="left">Hola 👋, soy Melisa Cavagna I am Data Engineer and Data Analyst</h1>
-
+<h1 align="left">Hola 👋, soy Melisa Cavagna </h1>
   
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>  
   
 
-### <div align="center">Hi I’m Melisa, 👩‍💻Data Engineer and Data Analyst specializing in Cloud Technologies with Azure and Master in Strategic and Technological Management (EOI-ITBA) </div>  
+### <div align="center">Hi 👋 I’m Melisa Cavagna, 👩‍💻Data Engineer and Data Analyst specializing in Cloud Technologies with Azure and Master in Strategic and Technological Management (EOI-ITBA) </div>  
   
 
   
