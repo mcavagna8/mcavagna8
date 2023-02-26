@@ -7,4 +7,4 @@ My main goal is to continue growing as a professional, developing myself in the 
 </h3> Skills: Python | Spark | Databricks | Azure Synapse | Data Factory | Cosmos DB | SQL | Power BI | Tableau | SAP FI | R | </h3>
 
 
-[Profile views](https://gpvc.arturio.dev/mcavagna8)  
+![Profile views](https://gpvc.arturio.dev/mcavagna8)  
