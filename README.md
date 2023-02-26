@@ -1,7 +1,7 @@
 <h1 align="left">Hola 👋, soy Melisa Cavagna </h1>
   
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
   
 
