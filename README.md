@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Melisa Cavagna</h1>
-<h3 align="center">I am Data Engineer and Data Analyst
+<h3 align="left">I am Data Engineer and Data Analyst
 I am a responsible, perseverant, proactive, punctual and committed person. Self-taught. I am passionate about innovation and technology.
 My main goal is to continue growing as a professional, developing myself in the areas of technology, finance and data science. </h3>
 
