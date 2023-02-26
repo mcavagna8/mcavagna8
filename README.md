@@ -1,5 +1,5 @@
-<h1 align="left">Hola 👋, soy Melisa Cavagna</h1>
-<h3 align="left">I am Data Engineer and Data Analyst</h3>
+<h1 align="left">Hola 👋, soy Melisa Cavagna I am Data Engineer and Data Analyst</h1>
+
   
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
