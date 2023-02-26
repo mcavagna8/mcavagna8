@@ -6,8 +6,8 @@ My main goal is to continue growing as a professional, developing myself in the 
 
 </h3> Skills: Python | Spark | Databricks | Azure Synapse | Data Factory | Cosmos DB | SQL | Power BI | Tableau | SAP FI | R | </h3>
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/melisacavagna//)  
+</h3>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/melisacavagna//)  </h3>
 
 
 ![Profile views](https://gpvc.arturio.dev/mcavagna8)  
