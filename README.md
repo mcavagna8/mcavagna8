@@ -69,7 +69,7 @@ src="https://www.svgrepo.com/show/400746/snowflake.svg" alt="Snowflake" height="
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Spark" height="50" /></a>  
 </div>
   
-  
+</td><td valign="top" width="33%">  
   
 </td></tr></table>  
 
