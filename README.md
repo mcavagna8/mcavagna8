@@ -64,7 +64,7 @@ src="https://www.svgrepo.com/show/400746/snowflake.svg" alt="Snowflake" height="
 
 ### Programming Tools  
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> </a>  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Spark" height="50" /></a>  
 </div>
