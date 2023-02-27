@@ -11,7 +11,7 @@
   
   
 
-📌I am a responsible, perseverant, proactive, punctual and committed person. Self-taught. 
+📌I am a responsible, proactive, punctual and committed person. Self-taught. 
 
  📌I am passionate about innovation and technology.
 
