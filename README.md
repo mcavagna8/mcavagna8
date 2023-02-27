@@ -28,7 +28,8 @@
 
 ### Databases  
 <div align="center"> <a href="https://www.microsoft.com/es-es/sql-server" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/331761/sql-database-sql-azure.svg" alt="SQL" height="50" /></a>  
-<a href="https://www.snowflake.com/?lang=es" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/snowflake/snowflake-ar21.svg" alt="Snowflake" height="50" /></a>  
+<a href="https://www.snowflake.com/?lang=es" target="_blank"><img style="margin: 10px" 
+src="https://www.vectorlogo.zone/util/preview.html?image=/logos/snowflake/snowflake-icon.svg" alt="Snowflake" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
