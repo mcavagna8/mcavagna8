@@ -43,7 +43,7 @@ src="https://www.svgrepo.com/show/400746/snowflake.svg" alt="Snowflake" height="
 <div align="center">  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.databricks.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/330261/databricks.svg" alt="Databricks" height="50" /></a>   
+<a href="https://www.databricks.com/" target="_blank"><img style="margin: 10px" src="https://www.databricks.com/en-website-assets/static/e6b356d9819308e5133bac62bb1e81ff/db-logo-stacked-white-desktop.svg" alt="Databricks" height="50" /></a>   
 </div>
 
   
