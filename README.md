@@ -114,5 +114,5 @@ src="https://www.svgrepo.com/show/400746/snowflake.svg" alt="Snowflake" height="
 ![Profile views](https://gpvc.arturio.dev/mcavagna8)  
  <footer
     class="footer">
-    <h3>Designed by Melisa Cavagna - 2022 </h3>
+    <h1>Designed by Melisa Cavagna - 2023 </h1>
 </footer>  
