@@ -27,7 +27,7 @@
 
 
 ### Databases  
-<div align="center"> <a href="https://www.microsoft.com/es-es/sql-server" target="_blank"><img style="margin: 10px" background= "white" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" height="50" /></a>  
+<div align="center"> <a href="https://www.microsoft.com/es-es/sql-server" target="_blank"><img style="margin: 10px" background= "white" src="file:///C:/Users/melis/Downloads/microsoft-sql-server-logo-svgrepo-com%20(1).svg" alt="SQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
