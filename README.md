@@ -13,9 +13,9 @@
 
 📌I am a responsible, proactive, punctual and committed person. Self-taught. 
 
- 📌I am passionate about innovation and technology.
+📌I am passionate about innovation and technology.
 
- 📌My main goal is to continue growing as a professional, developing myself in the areas of technology, finance and data science.   
+📌My main goal is to continue growing as a professional, developing myself in the areas of technology, finance and data science.   
   
 
 <br/>  
@@ -52,17 +52,13 @@ src="https://www.svgrepo.com/show/400746/snowflake.svg" alt="Snowflake" height="
 
 
 
-### Programming  
+### Data Visualization Tools  
 <div align="center">  
-
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 </div>
-<a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Spark" height="50" /></a>  
-</div>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>
+</div>
+
   
 </td><td valign="top" width="33%">
 
